@@ -1,0 +1,153 @@
+.main {
+
+    height: 800px;
+    width: 50%;
+    margin-left: 80px;
+
+
+
+}
+
+.box {
+    height: 200px;
+    width: 400px;
+    border: 10px;
+    border-style: double;
+    margin: 20px;
+    float: right;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.profile {
+
+
+    display: flex;
+    float: left;
+    margin-left: 80px;
+    margin-top: 20px;
+    height: 300px;
+    width: 150px;
+    border: 10px;
+    border-style: double;
+
+}
+
+.profiletext {
+    position: absolute;
+    top: 375px;
+    font-size: 18px;
+    text-align: center;
+    height: 150px;
+    width: 150px;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    margin-left: 80px;
+    box-sizing: border-box;
+    align-self: center;
+    padding: 20px;
+    background-color: black;
+    height: 80px;
+    width: 50%;
+}
+
+h1 {
+    color: white;
+}
+
+.likes {
+    height: 60px;
+    width: 400px;
+    display: flex;
+}
+
+#counter {
+    height: 60px;
+    width: 100px;
+    background-color: yellow;
+    border-style: ridge;
+    border-width: 6px;
+    text-align: center;
+    border-color: black;
+    float: right;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#likecounter {
+    height: 30px;
+    ;
+    width: 130px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+
+}
+
+h2 {
+    color: black;
+}
+
+#counter2 {
+    height: 60px;
+    width: 100px;
+    background-color: yellow;
+    border-style: ridge;
+    border-width: 6px;
+    text-align: center;
+    border-color: black;
+    float: right;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+#likecounter2 {
+    height: 30px;
+    ;
+    width: 130px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+#counter3 {
+    height: 60px;
+    width: 100px;
+    background-color: yellow;
+    border-style: ridge;
+    border-width: 6px;
+    text-align: center;
+    border-color: black;
+    float: right;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#likecounter3 {
+    height: 30px;
+    ;
+    width: 130px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
